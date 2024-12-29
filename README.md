@@ -1,1 +1,1 @@
-# sql-charlotta-dellborg-de24
+# SQL course using duckdb
